@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class StudentList {
 
     /**
-     * @param args the command line arguments
+     * Modified
      */
     public static void main(String[] args) {
     //Scanner input = new Scanner(System.in);
