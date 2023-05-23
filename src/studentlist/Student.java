@@ -16,7 +16,7 @@ public class Student {
         this.sname = sname;
         this.sID = sID;
     }
-
+//comment
     public String getSname() {
         return sname;
     }
