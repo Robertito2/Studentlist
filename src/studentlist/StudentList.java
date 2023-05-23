@@ -8,8 +8,8 @@ import java.util.Scanner;
 
 /**
  *
- * @author robert
- */
+This has been edited in github.com
+*/
 public class StudentList {
 
     /**
