@@ -9,6 +9,7 @@ import java.util.Scanner;
 /**
  *
 This has been edited in github.com
+Now for fetch and merge by 14:47
 */
 public class StudentList {
 
